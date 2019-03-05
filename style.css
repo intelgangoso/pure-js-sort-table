@@ -1,0 +1,18 @@
+body {
+    background-color: #efefef;
+}
+
+input{
+    border-radius: 0 !important;
+}
+
+.input-group .btn{
+    height: 38px;
+    border-radius: 0;
+    border: 1px solid #ced4da;
+}
+
+.table .btn{
+    border-width: 0;
+    border-radius: 0;
+}
